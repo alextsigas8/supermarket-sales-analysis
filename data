@@ -1,0 +1,5 @@
+supermarket-sales-analysis/
+  ├── data/
+  ├── data-cleaning.py
+  ├── requirements.txt
+  └── README.md
